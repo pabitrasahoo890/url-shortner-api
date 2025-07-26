@@ -16,14 +16,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 *   Python 3.10.4
-*   Django 5.x
+*   Django 5
 *   pip
 
 ### Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <url-shortner-api>
     cd url_shortner_api
     ```
 
